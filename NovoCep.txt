@@ -1,0 +1,12 @@
+[{
+  "cep": "28615-230",
+  "logradouro": "Avenida Hamburgo",
+  "complemento": "",
+  "bairro": "Mury",
+  "localidade": "Nova Friburgo",
+  "uf": "RJ",
+  "ibge": "3303401",
+  "gia": "",
+  "ddd": "22",
+  "siafi": "5867"
+}]

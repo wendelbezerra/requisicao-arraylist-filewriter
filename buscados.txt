@@ -1,0 +1,1 @@
+[Enderecorec[cep=28615-260, logradouro=Rua Maracanã, complemento=], Enderecorec[cep=28615-230, logradouro=Avenida Hamburgo, complemento=], Enderecorec[cep=03731-037, logradouro=Travessa Faustino Soares de Araújo, complemento=], Enderecorec[cep=03131-050, logradouro=Rua Agulha, complemento=], Enderecorec[cep=03731-050, logradouro=Praça Barão de Saiçã, complemento=]]
